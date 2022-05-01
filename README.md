@@ -36,3 +36,15 @@ Your friend wanted a PS5. But, you got them a toy car. Replace the placeholder w
 ```java
 "Java: " + ("<compare request and purchase>") + "\n"
 ```
+
+## Question 4.
+
+```java
+Me: Hi Java, can everyone attend my dinner party?
+```
+
+Java must check if you have enough space for every guest. Replace the placeholder with an apt comparison.
+
+```java
+Java: " + "<compare space and guests>" + "\n
+```
