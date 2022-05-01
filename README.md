@@ -63,4 +63,4 @@ Java: " + "<compare your votes and competitor>" + "\n
 
 ## Run your code.
 
-![Image_One](image_one.png)
+![Image_One](images/image_one.png)
