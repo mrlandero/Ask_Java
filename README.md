@@ -3,13 +3,13 @@ We will develop an app called Ask Java. The user can ask questions and Java need
 
 ## Question 1.
 
-```python
+```java
 Me: Hi Java, do I have enough change to buy chips?
 ```
 
 You have 3.50 in change, and the price of chips is 2.50. Replace the placeholder with an appropriate comparison.
 
-```python
+```java
 Java: " + ("<compare change and price>") + "\n
 ```
 
@@ -23,4 +23,16 @@ There are **15** people, but the elevator can only hold **12**. Replace the plac
 
 ```java
 "Java: " + ("<compare capacity and people>") + "\n"
+```
+
+## Question 3.
+
+```java
+Me: Hi Java, will my friend be happy?
+```
+
+Your friend wanted a PS5. But, you got them a toy car. Replace the placeholder with an appropriate comparison.
+
+```java
+"Java: " + ("<compare request and purchase>") + "\n"
 ```
