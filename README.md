@@ -60,3 +60,7 @@ Java must check if you have more votes than your competitor.
 ```java
 Java: " + "<compare your votes and competitor>" + "\n
 ```
+
+## Run your code.
+
+![Image_One](image_one.png)
