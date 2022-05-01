@@ -48,3 +48,15 @@ Java must check if you have enough space for every guest. Replace the placeholde
 ```java
 Java: " + "<compare space and guests>" + "\n
 ```
+
+## Question 5.
+
+```java
+Me: Hi Java, will I win the election?
+```
+
+Java must check if you have more votes than your competitor.
+
+```java
+Java: " + "<compare your votes and competitor>" + "\n
+```
