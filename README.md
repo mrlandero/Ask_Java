@@ -12,3 +12,15 @@ You have 3.50 in change, and the price of chips is 2.50. Replace the placeholder
 ```python
 Java: " + ("<compare change and price>") + "\n
 ```
+
+## Question 2.
+
+```java
+Me: Hi Java, can the elevator hold everyone?
+```
+
+There are **15** people, but the elevator can only hold **12**. Replace the placeholder with an appropriate comparison.
+
+```java
+"Java: " + ("<compare capacity and people>") + "\n"
+```
